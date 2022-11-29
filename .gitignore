@@ -1,5 +1,5 @@
-## Object file
+# Object file
 *.o
 
-## Ada Library Information
+# Ada Library Information
 *.ali
